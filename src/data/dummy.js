@@ -70,8 +70,8 @@ export const kanbanGrid = [
 	{ headerText: "In Progress", keyField: "InProgress", allowToggle: true },
 
 	{
-		headerText: "Testing",
-		keyField: "Testing",
+		headerText: "Acceptance",
+		keyField: "Acceptance",
 		allowToggle: true,
 		isExpanded: false,
 	},
@@ -3423,7 +3423,7 @@ export const kanbanData = [
 	{
 		Id: "Task 24",
 		Title: "Task - 29030",
-		Status: "Testing",
+		Status: "Acceptance",
 		Summary: "Fix the issues reported by the customer.",
 		Type: "Bug",
 		Priority: "Critical",
@@ -3437,7 +3437,7 @@ export const kanbanData = [
 	{
 		Id: "Task 25",
 		Title: "Task - 29031",
-		Status: "Testing",
+		Status: "Acceptance",
 		Summary: "Fix the issues reported in Safari browser.",
 		Type: "Bug",
 		Priority: "Critical",
